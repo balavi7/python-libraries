@@ -1,0 +1,18 @@
+[1;35m[WARNING]: Could not match supplied host pattern, ignoring: web[0m
+ ________________________________
+< PLAY [Install and Start Nginx] >
+ --------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+[0;36mskipping: no hosts matched[0m
+ ____________
+< PLAY RECAP >
+ ------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
