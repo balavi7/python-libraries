@@ -19,3 +19,5 @@ my-project/
   Connect to the server  
   Update the Cache  
   Install and start Nginx  
+
+**Replace IP address, Ansible user, Ansible_ssh_private_key, playbook and inventory according to your actual path**
