@@ -2,8 +2,8 @@ import ansible_runner
 
 result = ansible_runner.run(
     private_data_dir='.',
-    playbook='/home/bala_pc/python_libs/ansible-runner/project/playbook.yaml',
-    inventory='/home/bala_pc/python_libs/ansible-runner/inventory/hosts',
+    playbook='/home/python_libs/ansible-runner/project/playbook.yaml',
+    inventory='/home/python_libs/ansible-runner/inventory/hosts',
 )
 
 print("Status:", result.status)
