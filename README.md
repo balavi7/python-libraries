@@ -19,7 +19,7 @@ This repository contains the hands-on examples of most commonly used Python Libr
 
 Each library has its own folder with:
 - A python script
-- A README.md file explaining the file
+- A README.md file explaining the script
 
 ## How to execute
 
