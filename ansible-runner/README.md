@@ -20,4 +20,5 @@ my-project/
   Update the Cache  
   Install and start Nginx  
 
-**Replace IP address, Ansible user, Ansible_ssh_private_key, playbook and inventory according to your actual path**
+**Replace IP address, Ansible user, Ansible_ssh_private_key, playbook and inventory according to your actual path**  
+**When you run the ansible runner script, an artifacts folder will be generated which will have logs, events and status of the run. This folder is excluded from the repo.**
