@@ -3,7 +3,7 @@ from fabric import Connection
 conn = Connection(
     host="13.127.179.12", 
     user="ubuntu", 
-    connect_kwargs={"key_filename": "/mnt/d/Users/91966/Downloads/new_key.pem"}
+    connect_kwargs={"key_filename": "/Downloads/new_key.pem"}
 ) 
 
 def setup_nginx():
