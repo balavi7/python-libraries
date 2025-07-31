@@ -1,1 +1,0 @@
-{"event": "verbose", "uuid": "9a25723e-758d-4eaa-bf4e-66a6c20cd375", "counter": 1, "stdout": "\u001b[0;31mERROR! the playbook: /home/python_libs/ansible-runner/project/playbook.yaml could not be found\u001b[0m", "start_line": 0, "end_line": 1, "runner_ident": "5f3a3ef0-a023-4c98-881c-930f582c5899", "created": "2025-07-31T14:05:21.860929+00:00"}
